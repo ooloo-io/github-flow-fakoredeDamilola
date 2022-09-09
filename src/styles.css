@@ -18,5 +18,8 @@ body {
   border-bottom: 1px solid black;
 }
 .content {
+  width:720px;
+  margin:auto;
+  max-width:100%;
   min-height:calc(100vh - 100px);
 }
